@@ -10,7 +10,7 @@ We've all been there. Someone reports a bug with just "it doesn't work" and noth
 
 This site teaches people how to communicate technical problems effectively by showing the difference between vague reports and helpful ones. It provides a simple framework for what information to include when asking for help or reporting issues.
 
-Think of it as a shareable link you can send when someone needs a gentle reminder about writing better bug reports.
+Think of it as a shareable link you can send when someone needs a gentle reminder about describing problems clearly.
 
 ## Contributing
 
