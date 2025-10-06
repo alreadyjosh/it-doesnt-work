@@ -12,6 +12,10 @@ This site teaches people how to communicate technical problems effectively by sh
 
 Think of it as a shareable link you can send when someone needs a gentle reminder about describing problems clearly.
 
+## Inspiration
+
+This project is inspired by [nohello.net](https://nohello.net), which teaches people not to just say "hello" in chat without their actual question. We apply the same principle to technical problem reporting.
+
 ## Contributing
 
 Contributions are welcome! Whether you want to improve the content, fix bugs, or add features:
