@@ -17,9 +17,11 @@ function App() {
 			window.history.replaceState(null, '', `/${initialLang}`);
 		}
 
-		setLanguage(initialLang);
-		setT(translations[initialLang]);
-		updateMetaTags(translations[initialLang]);
+		// Use the path language if it exists, otherwise use browser language
+		const finalLang = pathLang || initialLang;
+		setLanguage(finalLang);
+		setT(translations[finalLang]);
+		updateMetaTags(translations[finalLang]);
 	}, []);
 
 	const changeLanguage = (lang: Language) => {
